@@ -1,5 +1,3 @@
----
-
 # README.md
 
 ## 🍳 Cooking a Website (Metaphor + Practical Guide)
@@ -32,7 +30,7 @@ Making a website is like cooking a delicious dish. You need **ingredients, utens
 
 👉 Just like cooking, practice improves taste and quality.
 
----
+
 
 ## ⚡ Electricity Basics
 
